@@ -35,6 +35,7 @@ SHIELD bot which has the host permission immediately removes the participant nam
 # Future work
 
 Our program is working modularly to detect both intentional or unintentional nudity. However, we have not yet integrated this algorithm on a standalone server to function as a fully operating bot given the time constraint. 
+We will continue to build this into a standalone bot which is platform agnostic. 
 
 # Installation
 ```

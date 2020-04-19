@@ -7,7 +7,7 @@ With countries in lockdown and people in quarantine, Zoom has been one of the po
 The Zoombombing incidents are mainly due to the security flaws in the video conferencing tool. In other more secure platforms like webex or skype, there can be other incidents in which a meeting participant may not be aware of their actions. Our bot is designed to detect any unintended appearance like topless video stream of the participants and remove them thereby avoiding any embarrassments[1][2].
 
 # Function
-The bot is invited to the meeting just like a participant <by sending an invite??>. The bot then joins the meeting and continuously monitors the video feed of the meeting to detect any nude content. If it finds something it will remove the participant if it has the host permission, else it will notify the host. The bot is created from machine learning algorithm and neural networks that has been trained to detect nudity. The dataset <technical details…>
+The bot is invited to the meeting just like a participant by sending an invite. The bot then joins the meeting and continuously monitors the video feed of the meeting to detect any nude content. If it finds something it will remove the participant if it has the host permission, else it will notify the host. The bot is created from machine learning algorithm and neural networks that has been trained to detect nudity. 
 
 # Flow
 
@@ -31,6 +31,10 @@ SHIELD bot which has the host permission immediately removes the participant nam
 <p>
 <img src=SHIELD_Demo/pic3.png width=400 >
 </p>
+
+# Future work
+
+Our program is working modularly to detect both intentional or unintentional nudity. However, we have not yet integrated this algorithm on a standalone server to function as a fully operating bot given the time constraint. 
 
 # Installation
 ```

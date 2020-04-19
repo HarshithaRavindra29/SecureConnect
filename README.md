@@ -12,9 +12,9 @@ The bot is invited to the meeting just like a participant <by sending an invite?
 # Flow
 
 
-<img src=SHIELD_Demo/Pic1.png width=300 >
-<img src=SHIELD_Demo/pic2.png width=300 >
-<img src=SHIELD_Demo/pic3.png width=300 >
+<img src=SHIELD_Demo/Pic1.png width=400 >
+<img src=SHIELD_Demo/pic2.png width=400 >
+<img src=SHIELD_Demo/pic3.png width=400 >
 
 
 # Installation

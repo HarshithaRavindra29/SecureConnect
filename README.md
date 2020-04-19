@@ -1,4 +1,4 @@
-# SecureConnect
+# SHIELD
 
 Inspiration:
 With countries in lockdown and people in quarantine, Zoom has been one of the popular software at this time that has gained huge user base to have video conferences for work as well as for personal conversations. With many schools and businesses using Zoom as a meeting platform, there has been lot of “Zoombombing”.  This term used when uninvited participants join the meeting and harass by projecting derogatory and pornographic content. Zoombombing has become a serious issue especially with many incidents being reported where pornographic content was projected in school classroom sessions. This has led us to develop a bot which can detect nudity in Zoom meetings and remove the participant. Our bot can also detect any unintended topless video stream of the participants and remove them thereby avoiding any embarrassments.

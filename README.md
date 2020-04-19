@@ -11,15 +11,26 @@ The bot is invited to the meeting just like a participant <by sending an invite?
 
 # Flow
 
+<em>
 The image below shows an example of classroom session in progress via zoom. This example considers a teacher and a couple of students.
+ </em>
+<p>
 <img src=SHIELD_Demo/Pic1.png width=400 >
+</p>
 
+<em>
 The second image shows a “Spammer” who is an uninvited guest joining the call and presenting his screen with inappropriate content.
+</em>
+<p>
 <img src=SHIELD_Demo/pic2.png width=400 >
+</p>
 
+<em>
 SHIELD bot which has the host permission immediately removes the participant named “Spammer” who shared inappropriate content. After SHIELD performed the action it notifies everybody about it via the chat box.
+</em>
+<p>
 <img src=SHIELD_Demo/pic3.png width=400 >
-
+</p>
 
 # Installation
 ```

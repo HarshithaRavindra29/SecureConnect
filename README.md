@@ -39,3 +39,6 @@ This will throw an exception `UnsafeEnvironment` if more than `tolerance` number
 
 1. https://nypost.com/2020/04/16/brazilian-judge-caught-shirtless-during-court-session-on-zoom/
 2. https://www.ebaumsworld.com/videos/woman-drops-a-hot-deuce-forgetting-she-is-on-a-video-conference-on-quarentine/86228857/
+3. https://www.reddit.com/r/MachineLearning/comments/b78j1q/p_nudity_detection_and_censoring_in_images_with/
+4. https://devpost.com/software/zoogle-assistant
+
